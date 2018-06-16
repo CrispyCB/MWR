@@ -3,6 +3,10 @@ h1 {
     text-align: center;
     color: #CA541D;
 }
+hr {
+    width: 50px;
+    color: #644940;
+}
 p {
     font-family: 'Raleway', sans-serif;
     text-align: center;
