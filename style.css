@@ -1,3 +1,10 @@
+form {
+    margin: 0 auto;
+    width: 400px;
+}
+form div + div {
+    margin-top: 1em;
+}
 h1 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
@@ -10,6 +17,15 @@ hr {
 img {
     margin: 0 auto;
     display: block;
+}
+input, textarea {
+    width: 300px;
+  box-sizing: border-box;
+}
+label {
+    display: inline-block;
+    width: 95px;
+    text-align: right;
 }
 p {
     font-family: 'Raleway', sans-serif;
