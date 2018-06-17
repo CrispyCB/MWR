@@ -23,6 +23,7 @@ input, textarea {
   box-sizing: border-box;
 }
 label {
+    font-family: 'Raleway', sans-serif;
     display: inline-block;
     width: 95px;
     text-align: right;
