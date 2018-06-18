@@ -1,6 +1,10 @@
 button {
     font-family: 'Raleway', sans-serif;
 }
+.gallery {
+    width: 215px;
+    display: inline-block;
+}
 form {
     margin: 0 auto;
     width: 400px;
