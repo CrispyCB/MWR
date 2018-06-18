@@ -1,10 +1,6 @@
 button {
     font-family: 'Raleway', sans-serif;
 }
-.gallery {
-    width: 215px;
-    display: inline-block;
-}
 form {
     margin: 0 auto;
     width: 400px;
@@ -39,8 +35,27 @@ p {
     font-family: 'Raleway', sans-serif;
     text-align: center;
 }
-
+ul {
+    margin: 0 auto;
+    text-align: center;
+}
+.gallery {
+    width: 215px;
+    display: inline-block;
+    padding-right: 15px;
+}
 .service {
     width: 49%;
     display: inline-block;
+}
+#bamboo {
+    margin-bottom: 15%;
+}
+#gltile {
+    background: #1b6ba6;
+    margin-bottom: 10%;
+}
+#starcke {
+    margin-left: 35%;
+    margin-top: -40%;
 }
