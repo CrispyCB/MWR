@@ -45,7 +45,7 @@ ul {
     padding-right: 15px;
 }
 .service {
-    width: 49%;
+    max-width: 49%;
     display: inline-block;
 }
 #bamboo {
@@ -54,6 +54,9 @@ ul {
 #gltile {
     background: #1b6ba6;
     margin-bottom: 10%;
+}
+#service-container {
+    display: flex;
 }
 #starcke {
     margin-left: 35%;
