@@ -55,10 +55,13 @@ ul {
     background: #1b6ba6;
     margin-bottom: 10%;
 }
+#gallery-list {
+    display: flex;
+}
 #service-container {
     display: flex;
 }
 #starcke {
     margin-left: 35%;
-    margin-top: -40%;
+    margin-top: 18%;
 }
