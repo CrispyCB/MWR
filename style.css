@@ -58,15 +58,21 @@ ul {
 #about-text, #contact-text, #portfolio-text, #service-container {
     padding-top: 1%;
 }
+#bamboo {
+    width: 392px;
+    height: 88px;
+    margin-left: -72%;
+}
 #gltile {
     background: #1b6ba6;
     margin-bottom: 10%;
 }
 #gallery-list {
-    display: flex;
+    display: inline-block;
     padding-top: .5%;
     padding-bottom: 5%;
     margin-left: 6.5%;
+    grid-auto-rows: 2;
 }
 #service-container {
     display: flex;
@@ -74,5 +80,5 @@ ul {
 }
 #starcke {
     margin-left: 35%;
-    margin-top: 18%;
+    margin-bottom: 30%;
 }
