@@ -63,6 +63,9 @@ ul {
     height: 88px;
     margin-left: -72%;
 }
+#fidbox {
+    margin-left: -20%;
+}
 #gltile {
     background: #1b6ba6;
     margin-bottom: 10%;
