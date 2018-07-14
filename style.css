@@ -61,21 +61,20 @@ ul {
 #bamboo {
     width: 392px;
     height: 88px;
-    margin-left: -72%;
-}
-#fidbox {
-    margin-left: -20%;
 }
 #gltile {
     background: #1b6ba6;
     margin-bottom: 10%;
 }
-#gallery-list {
+#gallery-list ul {
+    margin: 0 auto;
+    text-align: center;
+}
+#gallery-list li {
     display: inline-block;
-    padding-top: .5%;
-    padding-bottom: 5%;
-    margin-left: 6.5%;
-    grid-auto-rows: 2;
+    vertical-align: top;
+    padding-left: 10%;
+    padding-top: 1%;
 }
 #logo {
     width: 100%;
@@ -88,6 +87,6 @@ ul {
 }
 #starcke {
     margin-left: 35%;
-    margin-bottom: 30%;
+    margin-top: 20%;
 }
 /*media queries*/
